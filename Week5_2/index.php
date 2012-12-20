@@ -12,7 +12,7 @@
 	
 		<div id="bannerarea">
 			<img src="nerdluv.png" alt="banner logo"> <br>
-			where meek geeks meetd
+			where meek geeks meet
 		</div>
 
 
